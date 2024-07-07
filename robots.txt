@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://prousage.github.io/sitemap.html.gz
+Sitemap: https://prousage.github.io/app/sitemap.html.gz
+Sitemap: https://prousage.github.io/assets/sitemap.html.gz
+Sitemap: https://prousage.github.io/css/sitemap.html.gz
+Sitemap: https://prousage.github.io/includes/sitemap.html.gz
+Sitemap: https://prousage.github.io/item/sitemap.html.gz
+Sitemap: https://prousage.github.io/src/sitemap.html.gz
